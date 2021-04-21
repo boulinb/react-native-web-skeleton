@@ -4,7 +4,7 @@ export default {
   translation: {
     [ScreenNames.Home]: {
       title: "My title",
-      description: "My description"
-    }
+      description: "My description",
+    },
   },
 };

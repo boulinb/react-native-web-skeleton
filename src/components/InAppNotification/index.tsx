@@ -11,7 +11,7 @@ import {
 } from "./utils";
 import { IconInformations } from "../Svg/IconInformations";
 import { notificationBackground, notificationStyles } from "./styles";
-import {generalStyle} from "../../utils/generalStyle";
+import { generalStyle } from "../../utils/generalStyle";
 
 interface IInAppNotification {}
 

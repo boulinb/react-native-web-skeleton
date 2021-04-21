@@ -5,7 +5,7 @@ import { initReactI18next } from "react-i18next";
 
 import fr from "./lang/fr";
 import en from "./lang/en";
-import {DEFAULT_LANGUAGE} from "./types";
+import { DEFAULT_LANGUAGE } from "./types";
 
 const i18nConfig = {
   resources: { fr, en },

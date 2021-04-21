@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 import { colors } from "../../utils/colors";
 import { ENotificationTypes } from "../../store/inAppNotification/types";
-import {getWidth, isMediumScreen} from "../../utils/dimensions";
+import { getWidth, isMediumScreen } from "../../utils/dimensions";
 
 export const notificationBackground = {
   [ENotificationTypes.NONE]: colors.lightBlue,
