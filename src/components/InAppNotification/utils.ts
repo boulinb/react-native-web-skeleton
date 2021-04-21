@@ -1,0 +1,4 @@
+export const DEFAULT_NOTIFICATION_DURATION = 2500;
+export const DEFAULT_ANIMATION_DURATION = 400;
+export const DEFAULT_TOP_VALUE = -100;
+export const END_TOP_VALUE = 48;
